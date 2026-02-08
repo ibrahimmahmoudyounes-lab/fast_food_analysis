@@ -1,13 +1,13 @@
-# 🍔 fast_food_analysis
+# fast_food_analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes the relationship between fast-food consumption and various health and lifestyle indicators using Python data analysis and visualization tools.
 
 The analysis explores patterns related to diet, BMI, physical activity, sleep duration, energy levels, and general health across different demographic groups.
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains anonymized records including:
 
 - Gender
@@ -24,7 +24,7 @@ The dataset contains anonymized records including:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Jupyter Notebook
 - Pandas
@@ -34,7 +34,7 @@ The dataset contains anonymized records including:
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 The project includes:
 
 - Fast-food consumption distribution analysis
@@ -49,7 +49,7 @@ The project includes:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Fast-food consumption patterns vary slightly across groups but remain generally consistent.
 - Calorie intake differences are limited across categories.
 - BMI distributions are comparable across groups.
@@ -59,5 +59,4 @@ The project includes:
 
 ---
 
-## 📁 Repository Structure
 
