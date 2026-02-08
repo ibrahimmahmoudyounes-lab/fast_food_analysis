@@ -1,16 +1,16 @@
-# Health & Lifestyle Analysis by Gender
+# 🍔 fast_food_analysis
 
-## Project Overview
-This project analyzes health and lifestyle patterns across different gender groups using Python data analysis and visualization tools. The goal is to explore whether gender differences significantly affect lifestyle behaviors and health indicators.
+## 📌 Project Overview
+This project analyzes the relationship between fast-food consumption and various health and lifestyle indicators using Python data analysis and visualization tools.
 
-The analysis covers age distribution, dietary habits, physical activity, BMI, sleep patterns, energy levels, and healthcare usage.
+The analysis explores patterns related to diet, BMI, physical activity, sleep duration, energy levels, and general health across different demographic groups.
 
 ---
 
-## Dataset Description
+## 📂 Dataset Description
 The dataset contains anonymized records including:
 
-- Gender categories
+- Gender
 - Age
 - Weekly fast-food consumption
 - Daily calorie intake
@@ -24,7 +24,7 @@ The dataset contains anonymized records including:
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - Python
 - Jupyter Notebook
 - Pandas
@@ -34,35 +34,30 @@ The dataset contains anonymized records including:
 
 ---
 
-## Analysis Performed
+## 🔍 Analysis Performed
 The project includes:
 
-- Average age comparison by gender
-- Weekly fast-food consumption distribution
-- Average daily calorie intake comparison
-- BMI distribution analysis
+- Fast-food consumption distribution analysis
+- Average calorie intake comparison
+- BMI distribution and summary statistics
 - Physical activity level comparison
-- Overall health score comparison
-- Digestive issues frequency analysis
-- Annual doctor visit comparison
-- Sleep duration comparison
+- Sleep duration analysis
+- Health score comparison
 - Energy level comparison
-- Statistical summaries for BMI and eating habits
+- Doctor visit frequency analysis
+- Digestive issues frequency analysis
 
 ---
 
-## Key Insights
-- Age distribution is nearly uniform across genders.
-- Fast-food consumption patterns are similar among all groups.
-- Daily calorie intake differences are minimal.
-- BMI distribution shows comparable medians and spreads.
-- Physical activity levels are slightly higher in some categories but overall similar.
-- Health and energy scores remain consistent across genders.
-- Sleep duration and doctor visit frequency show no strong variation.
-
-Overall, gender differences do not strongly influence most lifestyle and health indicators in this dataset.
+## 📊 Key Insights
+- Fast-food consumption patterns vary slightly across groups but remain generally consistent.
+- Calorie intake differences are limited across categories.
+- BMI distributions are comparable across groups.
+- Physical activity and sleep duration show moderate variation.
+- Health and energy scores remain relatively stable.
+- No strong evidence suggests major health differences driven solely by fast-food consumption in this dataset.
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
